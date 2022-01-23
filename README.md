@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MFlister, commonly called by my nickname: Mineirinho
+- 👋 Hi, I’m Michael Flister
 - 👀 I’m interested in Music, Games, Series, Books and Data
 - 🌱 I’m currently learning Data Engineering skills such as: Terraform, Apache Airflow, Spark, Kubernetes
 - 💞️ I’m looking to collaborate on Data Engineering/Science projects..
